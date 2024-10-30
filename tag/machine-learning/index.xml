@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>machine-learning | </title>
+    <link>https://wmkouw.github.io/tag/machine-learning/</link>
+      <atom:link href="https://wmkouw.github.io/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>machine-learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2024 Wouter M. Kouw</copyright><lastBuildDate>Mon, 19 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wmkouw.github.io/media/icon_hu1bb5fdfd1880debea4e06488b739ba7d_12250_512x512_fill_lanczos_center_3.png</url>
+      <title>machine-learning</title>
+      <link>https://wmkouw.github.io/tag/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>TU/e 5XSL0</title>
+      <link>https://wmkouw.github.io/teaching/tue-5xsl0/</link>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://wmkouw.github.io/teaching/tue-5xsl0/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://canvas.tue.nl/courses/16579&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;5XSL0 Fundamentals of Machine Learning&lt;/a&gt; (BMLIP) is an elective course in the Electrical Engineering Bachelor Program of the TU Eindhoven.&lt;/p&gt;
+&lt;p&gt;We live in the age of data. The amount of data has been increasing at an exponential rate over the last decades and is expected to continue. Not only is the volume of the data larger than ever before, also the variety in types of data is consistently growing. Due to the enormous progress in sensor technology, we can measure more than ever before. The vast amounts of heterogeneous data harbor useful information that can help in e.g. clinical decision-making, predictive maintenance and visual object detection. However, due to its growing volume and complexity, it becomes increasingly harder for humans to extract this information by manually analyzing the patterns in the data. Machine learning is a subfield of Artificial Intelligence (AI) that focuses on building mathematical models that can extract information from data.&lt;/p&gt;
+&lt;p&gt;This course aims to offer a solid theoretical basis for modern machine learning methods. It will teach students the mathematical foundations of machine learning, introduce a number of elementary techniques and discuss methods for evaluation of model performance. These concepts are the fundamental building blocks of modern AI approaches and offer important insights.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sequential domain-adaptive machine learning</title>
+      <link>https://wmkouw.github.io/talk/sequential-domain-adaptive-machine-learning/</link>
+      <pubDate>Thu, 29 Aug 2019 09:00:00 +0000</pubDate>
+      <guid>https://wmkouw.github.io/talk/sequential-domain-adaptive-machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SeqDAIS</title>
+      <link>https://wmkouw.github.io/project/seqdais/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://wmkouw.github.io/project/seqdais/</guid>
+      <description>&lt;p&gt;The capacity of supervised learning systems to generalize to new examples is inherently limited by the collected data. If it is not an accurate reﬂection of the population, then the system will not perform well. In particular, if the collected data is biased, which means that one observes certain examples more often than normal, then the system can be misled into thinking that certain outcomes are also more likely to occur. Although the system might make accurate diagnoses for new patients arriving to that particular hospital, it will make inaccurate diagnoses for patients arriving to 1a diﬀerent hospital. The diﬀerences between patient populations might be due to regional diﬀerences such as exercise culture, but the fact that one observes for instance older patients more than normal means that data collected from that hospital is biased with respect to the total human population.&lt;/p&gt;
+&lt;p&gt;Handling biased samples from populations is a problem that has long been studied in statistics and econometrics. Although a number of techniques have been proposed to improve supervised learning systems trained on biased data, things have changed with the tremendous increase in computational power in the last 20 years. The ﬁeld has advanced to the point where we ask the question whether it is possible to generalize to particular target populations as well. Can we adapt a supervised learning system trained on adult human heart disease patients to make accurate decisions for infant heart disease patients?&lt;/p&gt;
+&lt;p&gt;Work from the last 10 years has looked at incorporating unlabeled data from these target populations. With this additional information, systems can recognize changes in data properties, ﬁnd correspondences between populations and adapt their decisions accordingly. Successful adaptation is deﬁned as an improvement over the performance of the original system. Nonetheless, the analysis of this problem is not complete, and it is not clear which conditions have to be fulﬁlled in order for the system to perform well. It seems that in cases where it is diﬃcult to describe how two populations relate to each other, adaptive systems suﬀer from high variability. They are highly uncertain about their decisions and often wrong. However, it seems that the more similar the populations are, the likelier it is that the system adapts well. It would, for example, be easier for the system to adapt to predict heart disease in adolescents based on data from adults, then it would for the system to adapt to infants. However, here might lie a potentially crucial insight: can we design a system that ﬁrst adapts to the closest population and only then adapts to the ﬁnal target population?
+In other words, a system that sequentially adapts?&lt;/p&gt;
+&lt;p&gt;This position is supported by a Niels Stensen Fellowship grant, offered by the Niels Stensen Stichting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Variance reduction techniques for importance-weighted cross-validation</title>
+      <link>https://wmkouw.github.io/talk/variance-reduction-techniques-for-importance-weighted-cross-validation/</link>
+      <pubDate>Thu, 09 Mar 2017 16:00:00 +0000</pubDate>
+      <guid>https://wmkouw.github.io/talk/variance-reduction-techniques-for-importance-weighted-cross-validation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Target contrastive estimator for robust domain adaptation</title>
+      <link>https://wmkouw.github.io/talk/target-contrastive-estimator-for-robust-domain-adaptation/</link>
+      <pubDate>Fri, 27 May 2016 15:00:00 +0000</pubDate>
+      <guid>https://wmkouw.github.io/talk/target-contrastive-estimator-for-robust-domain-adaptation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature-level domain adaptation</title>
+      <link>https://wmkouw.github.io/talk/feature-level-domain-adaptation/</link>
+      <pubDate>Sun, 20 Mar 2016 10:00:00 +0000</pubDate>
+      <guid>https://wmkouw.github.io/talk/feature-level-domain-adaptation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature absence regularization for domain-adaptive learning</title>
+      <link>https://wmkouw.github.io/talk/feature-absence-regularization-for-domain-adaptive-learning/</link>
+      <pubDate>Tue, 17 Mar 2015 16:00:00 +0000</pubDate>
+      <guid>https://wmkouw.github.io/talk/feature-absence-regularization-for-domain-adaptive-learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
